@@ -1,0 +1,20 @@
+{
+  "name": "@gabolopez90/fcc-npm",
+  "version": "1.0.0",
+  "description": "Fcc challenge",
+  "main": "index.js",
+  "repository": "https://github.com/gabolopez90/fcc-npm.git",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "fcc",
+    "npm",
+    "node.js"
+  ],
+  "author": "Gabriel Lopez",
+  "license": "ISC",
+  "dependencies": {
+    "@linclark/pkg": "^1.0.2"
+  }
+}
